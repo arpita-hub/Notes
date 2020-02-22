@@ -1,0 +1,8 @@
+Plugins
+
+Maven Invoker
+Github Integration
+Deploy to container  ------> Post build ------> Deploy ear/war to a container
+Role based Authentication
+
+Build Triggers  ----> Poll SCM -----> cron jobs   ------>  */2****
