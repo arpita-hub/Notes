@@ -1,0 +1,11 @@
+For change port
+cd /opt/tomcat/conf
+server.xml  ----->    Connector Port
+
+For Managers
+sudo vim webapps/host-manager/META-INF/context.xml 
+sudo vim webapps/manager/META-INF/context.xml 
+
+For creating users
+cd conf
+tomcat-users.xml
